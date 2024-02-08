@@ -1,12 +1,12 @@
 # Currículo [PT-BR]
 
-👋🏻 Olá! Meu nome é **Gabriel Bernardini Schimidt** e sou estudande do curso de **Bacharelado em Sistemas de Informação** pela **![Universidade de São Paulo (USP)]([https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86200&codhab=204&tipo=N](http://www5.each.usp.br/bacharelado-em-sistemas-de-informacao/)http://www5.each.usp.br/bacharelado-em-sistemas-de-informacao/)** 
+👋🏻 Olá! Meu nome é **Gabriel Bernardini Schimidt** e sou estudande do curso de **Bacharelado em Sistemas de Informação** pela **[Universidade de São Paulo (USP)]([https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86200&codhab=204&tipo=N](http://www5.each.usp.br/bacharelado-em-sistemas-de-informacao/)http://www5.each.usp.br/bacharelado-em-sistemas-de-informacao/)** 
 
 ---
 
 ### Contato
 
-🔗 ![linkedin.com/in/gabrielbernardinischimidt](www.linkedin.com/in/gabrielbernardinischimidt)
+🔗 [linkedin.com/in/gabrielbernardinischimidt](www.linkedin.com/in/gabrielbernardinischimidt)
 
 
 # 💻 Experiência 
