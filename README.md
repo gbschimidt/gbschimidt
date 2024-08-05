@@ -26,7 +26,7 @@ com parceiros e órgãos governamentais no mercado dos Estados Unidos.
 Trainee | Outubro/2023 - Julho/2023
 
  - **Núcleo de Projetos:** Desenvolvedor web back-end com Node.js.
- - **Setor Júrídico-Financeiro:** Auxílio na organização dos documentos e contratos da empresa
+ - **Setor Júrídico-Financeiro:** Auxílio na organização dos documentos e contratos da empresa.
 
 ### Diretório Acadêmico de Sistemas de Informação - DASI UPS
 
